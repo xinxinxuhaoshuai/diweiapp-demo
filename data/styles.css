@@ -15,6 +15,9 @@
   font-size:14px;
   text-align:left;
 }
+.paragraph {
+  text-align:left;
+}
 .shape {
 }
 .image {
@@ -48,6 +51,8 @@
 ._流程形状 {
 }
 .image1 {
+}
+.placeholder {
 }
 ._文本链接 {
   color:#0000FF;
